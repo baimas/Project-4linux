@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $KEY_HEROKU
+    secure: $API_HEROKU
   app: devopsessentials-baimas
